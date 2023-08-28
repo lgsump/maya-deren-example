@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Meshes of the Afternoon
 manifest_name: meshes-of-the-afternoon
 permalink: meshes-of-the-afternoon
