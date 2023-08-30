@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/maya-deren-example/annotations/meshes-of-the-afternoon-canvas-1-shadow.json",
-            "label": {
-              "none": ["Shadow"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/maya-deren-example/annotations/meshes-of-the-afternoon-canvas-1-background.json",
             "label": {
               "none": ["Background"]
