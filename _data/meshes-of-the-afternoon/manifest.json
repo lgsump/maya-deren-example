@@ -23,16 +23,6 @@
         "id": "https://lgsump.github.io/maya-deren-example/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/maya-deren-example/annotations/meshes-of-the-afternoon-canvas-1-background.json",
-            "label": {
-              "none": ["Background"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://lgsump.github.io/maya-deren-example/meshes-of-the-afternoon/canvas-1/paintings",
