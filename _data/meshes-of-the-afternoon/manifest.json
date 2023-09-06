@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/maya-deren-example/annotations/meshes-of-the-afternoon-canvas-1-shadow-mirror-creature.json",
-            "label": {
-              "none": ["Shadow-Mirror-Creature"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/maya-deren-example/annotations/meshes-of-the-afternoon-canvas-1-shadows.json",
             "label": {
               "none": ["Shadows"]
